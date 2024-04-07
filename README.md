@@ -1,6 +1,9 @@
 # Binary-Clock
 This script displays the current localtime as a 64 bit binary data in a 8x8 matrix format.
 
+<img width="279" alt="Screenshot 2024-04-01 at 5 55 52 PM" src="https://github.com/shyam-haldar/Binary-Clock/assets/159643896/6123c33e-b94e-487d-ac86-4d06c0af2b4b">
+
+
 I came across various such projects on thernet where this was done using Arduino. This is my take using Python & PyQt5.
 
 ## Note
